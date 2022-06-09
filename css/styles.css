@@ -1,4 +1,45 @@
-.hero{
-  background-color: #252420;
-  color: #fff;
+.home{
+text-decoration: none;
+color: black;
+}
+.books{
+    text-decoration: none;
+    color: black;
+}
+.aksiyalar{
+    text-decoration: none;
+    color: black;
+}
+.contacts{
+    text-decoration: none;
+    color: black;
+}
+.site-header{
+    background-color: #fff;
+}
+.sign-up{
+    text-decoration: none;
+    background-color: orange;
+    color: white;
+}
+
+
+.navigation{
+    background-color: black;
+    color: #fff;
+}
+.shop{
+    text-decoration: none;
+    background-color: orange;
+    color: #fff;
+}
+.hero-hr{
+    width: 80px;
+    height: 3px;
+    background-color: orange;
+}
+.hero-hr-two{
+    width: 80px;
+    height: 3px;
+    background-color: orange;
 }
